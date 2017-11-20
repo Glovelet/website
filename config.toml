@@ -1,6 +1,6 @@
 baseURL = "glovelet.github.io"			# Site's URL
 title = "Glovlet - Advance Tracking Gloves"
-theme = "manis"
+theme = "manis-theme"
 copyright = "&copy; 2017 UTA PiedPiper"	
 pluralizeListTitles = false
 paginate = 10					
